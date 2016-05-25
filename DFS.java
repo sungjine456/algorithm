@@ -8,17 +8,18 @@ import java.util.List;
 import java.util.Map;
 import java.util.StringTokenizer;
 
-public class Main {
+public class DFS {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
-		int n = Integer.parseInt(st.nextToken());  // Á¤Á¡ÀÇ °³¼ö
-		int m = Integer.parseInt(st.nextToken());  // °£¼±ÀÇ °³¼ö
-		int v = Integer.parseInt(st.nextToken());  // ½ÃÀÛ Á¤Á¡
+		int n = Integer.parseInt(st.nextToken());  // ì •ì ì˜ ê°œìˆ˜
+		int m = Integer.parseInt(st.nextToken());  // ê°„ì„ ì˜ ê°œìˆ˜
+		int v = Integer.parseInt(st.nextToken());  // ì‹œì‘ ì •ì 
 		Map<Integer, List<Integer>> map = new HashMap<Integer, List<Integer>>();
 		for(int i = 1; i <= n; i++){
 			map.put(i, new ArrayList<Integer>());
 		}
+		// ê°„ì„  ì…ë ¥
 		for(int i = 0; i < m; i++){
 			st = new StringTokenizer(br.readLine(), " ");
 			int a = Integer.parseInt(st.nextToken());
