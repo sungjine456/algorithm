@@ -8,4 +8,5 @@
 * BFS(인접리스트를 이용한 BFS)
 * EOF(BufferedReader의 EOF)
 * Sosu(에라토스테네스의 체를 이용한 소수 구하기)
+* GCD(최대 공약수 유클리드 호제법)
 ----
