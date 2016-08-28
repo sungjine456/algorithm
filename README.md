@@ -11,5 +11,6 @@
 * GCD(최대 공약수 유클리드 호제법)
 * QuickSort(K 번째 수를 구하기 위한 QuickSort)
 * fibonacci(피보나치 수열)
-* shellsort(쉘솔트)
+* ShellSort(쉘솔트)
+* InsertSort(삽입정렬)
 ----
