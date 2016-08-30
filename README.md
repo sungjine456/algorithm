@@ -13,4 +13,5 @@
 * fibonacci(피보나치 수열)
 * ShellSort(쉘솔트)
 * InsertSort(삽입정렬)
+* BubbleSort(거품정렬)
 ----
