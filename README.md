@@ -16,7 +16,7 @@
 * BubbleSort(거품정렬)
 
 ----
-### 온라인 저지 문제<filename : 문제번호>
+### 온라인 저지 문제<filename : 문제번호 문제제목>
 * [Problem1010 다리 놓기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1010 "Problem1010")
 * [Problem1789 수들의 합](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1789 "Problem1789")
 * [Problem1874 스택 수열](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1874 "Problem1874")
@@ -26,6 +26,7 @@
 * [Problem2606 바이러스](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2606 "Problem2606")
 * [Problem4673 셀프 넘버](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem4673 "Problem4673")
 * [Problem9996 한국이 그리울 땐 서버에 접속하지](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem9996 "Problem9996")
+* [Problem10994 별 찍기 - 19](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10994 "Problem10994")
 * [Problem11060 점프 점프](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem11060 "Problem11060")
 
 ---
