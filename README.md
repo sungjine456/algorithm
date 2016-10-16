@@ -29,6 +29,7 @@
 * [Problem2606 바이러스](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2606 "Problem2606")
 * [Problem4673 셀프 넘버](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem4673 "Problem4673")
 * [Problem9996 한국이 그리울 땐 서버에 접속하지](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem9996 "Problem9996")
+* [Problem10212 Mystery](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10212 "Problem10212")
 * [Problem10994 별 찍기 - 19](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10994 "Problem10994")
 * [Problem11060 점프 점프](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem11060 "Problem11060")
 
