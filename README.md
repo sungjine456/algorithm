@@ -21,6 +21,7 @@
 * [Problem1193 분수찾기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1193 "Problem1193")
 * [Problem1735 분수 합](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1735 "Problem1735")
 * [Problem1789 수들의 합](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1789 "Problem1789")
+* [Problem1834 나머지와 몫이 같은 수](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1834 "Problem1834")
 * [Problem1874 스택 수열](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1874 "Problem1874")
 * [Problem1912 연속합](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1912 "Problem1912")
 * [Problem1932 숫자삼각형](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1932 "Problem1932")
