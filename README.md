@@ -31,6 +31,7 @@
 * [Problem2579 계단 오르기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2579 "Problem2579")
 * [Problem2606 바이러스](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2606 "Problem2606")
 * [Problem4673 셀프 넘버](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem4673 "Problem4673")
+* [Problem9935 문자열 폭발](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem9935 "Problem9935")
 * [Problem9996 한국이 그리울 땐 서버에 접속하지](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem9996 "Problem9996")
 * [Problem10212 Mystery](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10212 "Problem10212")
 * [Problem10819 차이를 최대로](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10819 "Problem10819")
