@@ -36,6 +36,7 @@
 * [Problem10212 Mystery](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10212 "Problem10212")
 * [Problem10799 쇠막대기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10799 "Problem10799")
 * [Problem10819 차이를 최대로](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10819 "Problem10819")
+* [Problem10867 중복 빼고 정렬하기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10867 "Problem10867")
 * [Problem10974 모든 수열](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10974 "Problem10974")
 * [Problem10994 별 찍기 - 19](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10994 "Problem10994")
 * [Problem11060 점프 점프](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem11060 "Problem11060")
