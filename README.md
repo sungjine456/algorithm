@@ -14,6 +14,8 @@
 * ShellSort(쉘솔트)
 * InsertSort(삽입정렬)
 * BubbleSort(거품정렬)
+* LIS(Longest Increasing Subsequence)
+* LCS(Longest Common Subsequence)
 
 ----
 ### 온라인 저지 문제<filename : 문제번호 문제제목>
