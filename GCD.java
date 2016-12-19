@@ -5,8 +5,8 @@ import java.io.InputStreamReader;
 public class GCD {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		int a = Long.parseLong(br.readLine());
-		int b = Long.parseLong(br.readLine());
+		int a = Integer.parseInt(br.readLine());
+		int b = Integer.parseInt(br.readLine());
 		System.out.println(gcd(a, b));
 	}
 	public static int gcd(int a, int b) {
@@ -15,6 +15,6 @@ public class GCD {
 			a = b;
 			b = temp;
 		}
-		return Math.abs(a);
+		return a;
 	}
 }
