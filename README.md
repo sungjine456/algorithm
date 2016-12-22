@@ -28,6 +28,7 @@
 * [Problem1874 스택 수열](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1874 "Problem1874")
 * [Problem1912 연속합](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1912 "Problem1912")
 * [Problem1932 숫자삼각형](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1932 "Problem1932")
+* [Problem2023 신기한 소수](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2023 "Problem2023")
 * [Problem2156 포도주 시식](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2156 "Problem2156")
 * [Problem2292 벌집](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2292 "Problem2292")
 * [Problem2563 색종이](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2563 "Problem2563")
