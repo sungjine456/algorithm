@@ -18,10 +18,15 @@
 * LCS(Longest Common Subsequence)
 
 ----
+### 온라인 저지에서 활용한 알고리즘들<알고리즘 명 : 활용할 문제들>
+* 플로이드 와샬 알고리즘 : 1389
+
+----
 ### 온라인 저지 문제<filename : 문제번호 문제제목>
 * [Problem1002 터렛](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1002 "Problem1002")
 * [Problem1010 다리 놓기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1010 "Problem1010")
 * [Problem1193 분수찾기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1193 "Problem1193")
+* [Problem1389 케빈 베이컨의 6단계 법칙](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1389 "Problem1389")
 * [Problem1699 제곱수의 합](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1699 "Problem1699")
 * [Problem1735 분수 합](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1735 "Problem1735")
 * [Problem1789 수들의 합](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1789 "Problem1789")
