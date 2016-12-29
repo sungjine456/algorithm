@@ -16,7 +16,7 @@ public class Problem1786 {
 		n = br.readLine().toCharArray();
 		hLen = h.length;
 		nLen = n.length;
-		List<Integer> list = kcm();
+		List<Integer> list = kmp();
 		sb.append(list.size());
 		sb.append("\n");
 		for(int i: list){
@@ -26,7 +26,7 @@ public class Problem1786 {
 		System.out.println(sb.toString());
 	}
 	
-	static List<Integer> kcm(){
+	static List<Integer> kmp(){
 		List<Integer> re = new ArrayList<Integer>();
 		int[] pi = getPi();
 		int j = 0;

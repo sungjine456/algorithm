@@ -14,11 +14,11 @@ public class Problem12780 {
 		n = br.readLine().toCharArray();
 		hLen = h.length;
 		nLen = n.length;
-		kcm();
+		kmp();
 		System.out.println(count);
 	}
 	
-	static void kcm(){
+	static void kmp(){
 		int[] pi = getPi();
 		int j = 0;
 		for(int i = 0; i < hLen; i++){
