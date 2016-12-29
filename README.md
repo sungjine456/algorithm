@@ -20,7 +20,7 @@
 ----
 ### 온라인 저지에서 활용한 알고리즘들<알고리즘 명 : 활용할 문제들>
 * 플로이드 와샬 알고리즘 : 1389
-* Knuth Morris Pratt(KMP): 12780
+* Knuth Morris Pratt(KMP): 12780, 1786
 
 ----
 ### 온라인 저지 문제<filename : 문제번호 문제제목>
@@ -30,6 +30,7 @@
 * [Problem1389 케빈 베이컨의 6단계 법칙](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1389 "Problem1389")
 * [Problem1699 제곱수의 합](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1699 "Problem1699")
 * [Problem1735 분수 합](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1735 "Problem1735")
+* [Problem1786 찾기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1786 "Problem1786")
 * [Problem1789 수들의 합](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1789 "Problem1789")
 * [Problem1834 나머지와 몫이 같은 수](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1834 "Problem1834")
 * [Problem1874 스택 수열](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1874 "Problem1874")
