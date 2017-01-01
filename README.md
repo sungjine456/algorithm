@@ -28,6 +28,7 @@
 * [Problem1010 다리 놓기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1010 "Problem1010")
 * [Problem1193 분수찾기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1193 "Problem1193")
 * [Problem1389 케빈 베이컨의 6단계 법칙](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1389 "Problem1389")
+* [Problem1495 기타리스트](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1495 "Problem1495")
 * [Problem1699 제곱수의 합](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1699 "Problem1699")
 * [Problem1735 분수 합](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1735 "Problem1735")
 * [Problem1786 찾기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1786 "Problem1786")
