@@ -59,6 +59,7 @@
 * [Problem10867 중복 빼고 정렬하기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10867 "Problem10867")
 * [Problem10974 모든 수열](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10974 "Problem10974")
 * [Problem10994 별 찍기 - 19](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10994 "Problem10994")
+* [Problem11053 가장 긴 증가하는 부분 수열](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem11053 "Problem11053")
 * [Problem11057 오르막 수](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem11057 "Problem11057")
 * [Problem11060 점프 점프](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem11060 "Problem11060")
 * [Problem11403 경로 찾기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem11403 "Problem11403")

@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Problem11060 {
+public class Problem11403 {
 	static StringTokenizer st;
 	static int[][] arr;
 	static int i, j, k, num;
