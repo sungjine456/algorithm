@@ -45,6 +45,7 @@
 * [Problem2156 포도주 시식](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2156 "Problem2156")
 * [Problem2292 벌집](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2292 "Problem2292")
 * [Problem2293 동전 1](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2293 "Problem2293")
+* [Problem2294 동전 2](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2294 "Problem2294")
 * [Problem2448 별찍기 - 11](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2448 "Problem2448")
 * [Problem2502 떡 먹는 호랑이](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2502 "Problem2502")
 * [Problem2563 색종이](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2563 "Problem2563")
