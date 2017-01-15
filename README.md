@@ -74,6 +74,7 @@
 * [Problem11057 오르막 수](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem11057 "Problem11057")
 * [Problem11060 점프 점프](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem11060 "Problem11060")
 * [Problem11403 경로 찾기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem11403 "Problem11403")
+* [Problem11536 줄 세우기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem11536 "Problem11536")
 * [Problem11652 카드](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem11652 "Problem11652")
 * [Problem11727 2×n 타일링 2](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem11727 "Problem11727")
 * [Problem11728 배열 합치기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem11728 "Problem11728")
