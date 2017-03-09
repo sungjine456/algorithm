@@ -20,7 +20,8 @@
 ----
 ### 온라인 저지에서 활용한 알고리즘들<알고리즘 명 : 활용할 문제 번호들>
 * 플로이드 워셜 알고리즘 : 1389, 2644, 11403
-* Knuth Morris Pratt(KMP): 1786, 5525, 12780
+* KMP(Knuth Morris Pratt): 1786, 5525, 12780
+* LIS(Longest Increasing Subsequence) : 1965
 
 ----
 ### 온라인 저지 문제<filename : 문제번호 문제제목>
@@ -42,6 +43,7 @@
 * [Problem1874 스택 수열](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1874 "Problem1874")
 * [Problem1912 연속합](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1912 "Problem1912")
 * [Problem1932 숫자삼각형](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1932 "Problem1932")
+* [Problem1965 상자넣기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1965 "Problem1965")
 * [Problem2023 신기한 소수](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2023 "Problem2023")
 * [Problem2156 포도주 시식](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2156 "Problem2156")
 * [Problem2292 벌집](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2292 "Problem2292")
