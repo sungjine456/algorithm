@@ -19,6 +19,7 @@
 
 ----
 ### 온라인 저지에서 활용한 알고리즘들<알고리즘 명 : 활용할 문제 번호들>
+* DP(Dynamic Programming) : 10844
 * 플로이드 워셜 알고리즘 : 1389, 2644, 11403, 11404
 * KMP(Knuth Morris Pratt): 1786, 5525, 12780
 * LIS(Longest Increasing Subsequence) : 1965
@@ -72,6 +73,7 @@
 * [Problem10814 나이순 정렬](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10814 "Problem10814")
 * [Problem10819 차이를 최대로](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10819 "Problem10819")
 * [Problem10825 국영수](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10825 "Problem10825")
+* [Problem10844 쉬운 계단 수](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10844 "Problem10844")
 * [Problem10867 중복 빼고 정렬하기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10867 "Problem10867")
 * [Problem10974 모든 수열](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10974 "Problem10974")
 * [Problem10994 별 찍기 - 19](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10994 "Problem10994")
