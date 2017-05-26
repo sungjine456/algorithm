@@ -59,6 +59,7 @@
 * [Problem2606 바이러스](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2606 "Problem2606")
 * [Problem2644 촌수계산](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2644 "Problem2644")
 * [Problem2697 다음수 구하기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2697 "Problem2697")
+* [Problem2721 삼각수의 합](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2721 "Problem2721")
 * [Problem2749 피보나치 수 3](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2749 "Problem2749")
 * [Problem2910 빈도 정렬](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2910 "Problem2910")
 * [Problem3062 수 뒤집기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem3062 "Problem3062")
