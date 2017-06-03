@@ -23,6 +23,7 @@
 * 플로이드 워셜 알고리즘 : 1389, 2644, 11403, 11404
 * KMP(Knuth Morris Pratt): 1786, 5525, 12780
 * LIS(Longest Increasing Subsequence) : 1965
+* 다익스트라 알고리즘 : 1753, 1916
 
 ----
 ### 온라인 저지 문제<filename : 문제번호 문제제목>
@@ -45,6 +46,7 @@
 * [Problem1834 나머지와 몫이 같은 수](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1834 "Problem1834")
 * [Problem1874 스택 수열](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1874 "Problem1874")
 * [Problem1912 연속합](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1912 "Problem1912")
+* [Problem1916 최소비용 구하기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1916 "Problem1916")
 * [Problem1932 숫자삼각형](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1932 "Problem1932")
 * [Problem1965 상자넣기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1965 "Problem1965")
 * [Problem2023 신기한 소수](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2023 "Problem2023")
