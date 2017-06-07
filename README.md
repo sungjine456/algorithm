@@ -49,6 +49,7 @@
 * [Problem1916 최소비용 구하기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1916 "Problem1916")
 * [Problem1932 숫자삼각형](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1932 "Problem1932")
 * [Problem1965 상자넣기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1965 "Problem1965")
+* [Problem1966 프린터 큐](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem1966 "Problem1966")
 * [Problem2023 신기한 소수](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2023 "Problem2023")
 * [Problem2156 포도주 시식](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2156 "Problem2156")
 * [Problem2226 이진수](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2226 "Problem2226")
