@@ -79,7 +79,7 @@
 * [Problem9935 문자열 폭발](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem9935 "Problem9935")
 * [Problem9946 단어 퍼즐](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem9946 "Problem9946")
 * [Problem9996 한국이 그리울 땐 서버에 접속하지](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem9996 "Problem9996")
-* [Problem10212 Mystery](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10212 "Problem10212")
+* [Problem10424 알고리즘 기말고사](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10424 "Problem10424")
 * [Problem10610 30](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10610 "Problem10610")
 * [Problem10799 쇠막대기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10799 "Problem10799")
 * [Problem10814 나이순 정렬](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10814 "Problem10814")
