@@ -53,6 +53,7 @@
 * [Problem2023 신기한 소수](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2023 "Problem2023")
 * [Problem2156 포도주 시식](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2156 "Problem2156")
 * [Problem2226 이진수](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2226 "Problem2226")
+* [Problem2252 줄 세우기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2252 "Problem2252")
 * [Problem2292 벌집](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2292 "Problem2292")
 * [Problem2293 동전 1](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2293 "Problem2293")
 * [Problem2294 동전 2](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem2294 "Problem2294")
