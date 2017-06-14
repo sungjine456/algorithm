@@ -24,6 +24,7 @@
 * KMP(Knuth Morris Pratt): 1786, 5525, 12780
 * LIS(Longest Increasing Subsequence) : 1965
 * 다익스트라 알고리즘 : 1753, 1916
+* 퀵 소트 : 11004
 
 ----
 ### 온라인 저지 문제<filename : 문제번호 문제제목>
@@ -90,6 +91,7 @@
 * [Problem10867 중복 빼고 정렬하기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10867 "Problem10867")
 * [Problem10974 모든 수열](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10974 "Problem10974")
 * [Problem10994 별 찍기 - 19](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem10994 "Problem10994")
+* [Problem11004 K번째 수](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem11004 "Problem11004")
 * [Problem11008 복붙의 달인](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem11008 "Problem11008")
 * [Problem11048 이동하기](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem11048 "Problem11048")
 * [Problem11053 가장 긴 증가하는 부분 수열](https://github.com/sungjine456/algorithm/tree/master/OnlineJudgeProblem/Problem11053 "Problem11053")
